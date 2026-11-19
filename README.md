@@ -5,6 +5,7 @@ Live at **https://demobyjoga.online** (free hosting with GitHub Pages).
 | App | Privacy Policy URL | Support URL |
 |---|---|---|
 | CleanWave | https://demobyjoga.online/cleanwave/privacy/ | https://demobyjoga.online/cleanwave/support/ |
+| Replay Save Cam | https://demobyjoga.online/replay-save-cam/privacy/ | https://demobyjoga.online/replay-save-cam/support/ |
 
 ## Add a new app
 1. Copy the `template` folder and rename the copy (for example `replaycam`).
